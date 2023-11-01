@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DemonsPlot",
+			"Path": "..\\Source\\DemonsPlot.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DemonsPlotEditor",
+			"Path": "..\\Source\\DemonsPlotEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
