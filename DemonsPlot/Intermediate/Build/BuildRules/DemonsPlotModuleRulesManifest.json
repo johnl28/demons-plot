@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"H:\\dev\\demons-plot\\DemonsPlot\\Source\\DemonsPlot\\DemonsPlot.Build.cs",
-		"H:\\dev\\demons-plot\\DemonsPlot\\Source\\DemonsPlot.Target.cs",
-		"H:\\dev\\demons-plot\\DemonsPlot\\Source\\DemonsPlotEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.1"
-}
